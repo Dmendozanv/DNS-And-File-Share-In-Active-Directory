@@ -1,6 +1,6 @@
 # DNS-And-File-Share-In-Active-Directory
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe how DNS works within a Domain Controller and how to create File Permissions as well as Security Groups between the Domain Controller and its various users.<br />
+In this tutorial, we observe how DNS works within a Domain Controller between the Domain Controller and its various users.<br />
 
 <h2>Environments and Technologies Used</h2>
 
