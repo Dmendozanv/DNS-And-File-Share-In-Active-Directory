@@ -1,4 +1,4 @@
-# DNS-And-File-Share-In-Active-Directory
+# DNS-In-Active-Directory
 <h1>DNS Traffic Between Azure Virtual Machines</h1>
 In this tutorial, we observe how DNS works within a Domain Controller between the Domain Controller and its various users.<br />
 
